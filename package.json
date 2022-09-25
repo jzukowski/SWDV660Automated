@@ -1,0 +1,27 @@
+{
+  "name": "automated",
+  "version": "1.0.0",
+  "description": "automated git and Jenkins pipeline",
+  "main": "helloworld.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzukowski/SWDV660Automated.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzukowski/SWDV660Automated/issues"
+  },
+  "homepage": "https://github.com/jzukowski/SWDV660Automated#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "request": "^2.88.2"
+  }
+}
